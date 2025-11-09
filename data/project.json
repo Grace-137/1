@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Grace-137",
+    "is_private": false,
+    "title": "the AfroGreeks - Pre Black History Month Celebration ",
+    "description": "My research examines Black identity formation in Greece, with particular focus on how Afro descendants express belonging, resistance, and cultural presence. I use ethnography, archival research and audiovisual material analysis to discuss Blackness and Greekness.",
+    "language": "en",
+    "slug": "1",
+    "creator": "Grace-137",
+    "authors": "Grace Chimela Eze Nwoke ",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-09T05:33:52.288Z",
+    "updated_at": "2025-11-09T05:33:52.288Z"
   }
 }
