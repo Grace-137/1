@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "Grace-137",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240009876?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "Grace-137",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-09T05:33:52.288Z",
-    "updated_at": "2025-11-09T05:33:52.288Z"
-  }
+    "updated_at": "2025-11-09T05:33:52.288Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "072f9067-a81f-4f48-aa48-a088a1d82b69": {
+      "content": [],
+      "created_at": "2025-11-09T05:33:52.307Z",
+      "created_by": "Grace-137",
+      "title": "the AfroGreeks - Pre Black History Month Celebration ",
+      "updated_at": "2025-11-09T05:33:52.307Z",
+      "updated_by": "Grace-137",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "072f9067-a81f-4f48-aa48-a088a1d82b69"
+  ]
 }
