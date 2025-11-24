@@ -1329,55 +1329,6 @@
       "uuid": "111d73fc-43cb-4c15-8573-346fc88d67bf"
     },
     {
-      "start_time": 22,
-      "end_time": 100,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This live action was a theatrical workshop in form of a game, put together by director Eleni Mavridou, actor Samuel Akinola and musician Giorgos Mavridis. 6 children from the 26th primary school of Kypseli with the help of their art teacher Eirini Bazara participated in the workshop in which poetry was merged with Greek folk songs and West African songs and drumming."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "tag": "Song",
-          "category": "Performance"
-        },
-        {
-          "tag": "Theatre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Poetry",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Dance"
-        },
-        {
-          "tag": "Greek Folk",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Samuel Akikola"
-        }
-      ],
-      "uuid": "1405f038-ed15-43d4-bc2f-d0a3aea66b57"
-    },
-    {
       "start_time": 131,
       "end_time": 154,
       "annotation": [
