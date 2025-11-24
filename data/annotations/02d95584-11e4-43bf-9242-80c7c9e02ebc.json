@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This teaser clip is a 51 second extraction from the 14minute movie that was created in 2019 by the Documatism collective and members of the African Diaspora in Athens Greece. The short movie with the title the AfroGreeks was the official inauguration of this collective community project, which  before then, did not have a title. In the clip, Mikel, one of the first protagonists of the project, explains what being an Afro-Greek is. Mikel is the first to introduce the term Afro-Greek to the collective and propose it as the title of the short movie."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Comments"
-        },
-        {
-          "tag": "Indoors",
-          "category": "Location"
-        }
-      ],
-      "uuid": "1ccea3e4-b466-4a9d-9c3f-2991ec00bd7e"
-    },
-    {
       "start_time": 2,
       "end_time": 7,
       "annotation": [
