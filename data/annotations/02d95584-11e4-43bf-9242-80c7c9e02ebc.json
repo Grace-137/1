@@ -434,35 +434,6 @@
       "uuid": "35045339-cf5e-49f8-ad72-bd83703435a7"
     },
     {
-      "start_time": 300,
-      "end_time": 320,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The Zappeion is one of the city's most renowned modern landmarks, as it was one of the first buildings constructed specifically for the revival of the Olympic Games in the late 19th century. Zappeion has a strong symbolic charge as it symbolizes Greece’s place within Europe, and it is associated with the country’s national identity, public visibility and modernity. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Panoramic Vie"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Zappeion"
-        },
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        }
-      ],
-      "uuid": "48e64710-b253-4157-81ac-016f15040d8c"
-    },
-    {
       "start_time": 340,
       "end_time": 354,
       "annotation": [
