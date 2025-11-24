@@ -520,63 +520,6 @@
       "uuid": "48e64710-b253-4157-81ac-016f15040d8c"
     },
     {
-      "start_time": 321,
-      "end_time": 339,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This performance was put together by four dancers and performers (Jessica Anosike, Grace Nwoke, Demelza Okoji and Maria Sackey) guided by the instructions of dance anthropologist Natasha Martin. It was a fusion of body percussion, singing and afro dance"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "tag": "Jessica Anosike",
-          "category": "Performer"
-        },
-        {
-          "tag": "Demelza Okoji",
-          "category": "Performer"
-        },
-        {
-          "tag": "Maria Irene Sackey",
-          "category": "Performer"
-        },
-        {
-          "tag": "Body Percussion",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Dance"
-        },
-        {
-          "tag": "Song",
-          "category": "Performance"
-        },
-        {
-          "tag": "Afrobeats",
-          "category": "Performance"
-        },
-        {
-          "tag": "Poetry",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "69f84e71-317c-41ef-94f0-8998ab362c9b"
-    },
-    {
       "start_time": 340,
       "end_time": 354,
       "annotation": [
