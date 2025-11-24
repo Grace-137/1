@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 2,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This clip starts with a close up of Dimitris, a third generation Afro-Greek playing djembe (a traditional drum originally from West Africa) at the Anasa Cultural Center of African Arts and Cultures in Athens. The sound of the drumming remains in the background throughout the clip."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Comments"
-        },
-        {
-          "tag": "Indoors",
-          "category": "Location"
-        },
-        {
-          "tag": "Space Significance",
-          "category": "Location"
-        }
-      ],
-      "uuid": "161d747c-9c79-4466-8443-ef13bc360226"
-    },
-    {
       "start_time": 7,
       "end_time": 9,
       "annotation": [
