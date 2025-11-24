@@ -380,31 +380,6 @@
       "uuid": "f1b1e09a-320b-49fa-9276-ff97c6866da3"
     },
     {
-      "start_time": 296,
-      "end_time": 299,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The Parthenon "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Panoramic View",
-          "category": "Digital"
-        },
-        {
-          "tag": "Parthenon",
-          "category": "Location"
-        }
-      ],
-      "uuid": "35045339-cf5e-49f8-ad72-bd83703435a7"
-    },
-    {
       "start_time": 340,
       "end_time": 354,
       "annotation": [
