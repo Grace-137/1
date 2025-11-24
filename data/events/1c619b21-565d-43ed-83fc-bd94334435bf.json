@@ -1,0 +1,57 @@
+{
+  "audiovisual_files": {
+    "9bd0c912-31d9-4aba-bdab-16a998b74a45": {
+      "label": "Encounter with the Black Diaspora in Greece - the AfroGreeks - Trailer  Encounter with the Black Diaspora in Greece - the AfroGreeks - Trailer  ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://vimeo.com/manage/videos/352085662",
+      "duration": 51,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "6c332d71-1cc5-4cec-9148-3551b0127b64": {
+      "label": "Encounter with the Black Diaspora in Greece - the AfroGreeks - 21/3/21 Highlights ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://vimeo.com/530839600",
+      "duration": 742,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "44d40fa6-36db-412a-9108-a8d9592cda56": {
+      "label": "Encounter with the Black Diaspora in Greece - the AfroGreeks - Remember this Song ",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://vimeo.com/1113322754/d1de10cdd9",
+      "duration": 9283,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Encounter with the Black Diaspora in Greece - the AfroGreeks",
+  "av_file_order": [
+    "9bd0c912-31d9-4aba-bdab-16a998b74a45",
+    "6c332d71-1cc5-4cec-9148-3551b0127b64",
+    "44d40fa6-36db-412a-9108-a8d9592cda56"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2025-11-24T06:37:25.953Z",
+  "created_by": "Grace-137",
+  "updated_at": "2025-11-24T06:37:25.953Z",
+  "updated_by": "Grace-137"
+}
