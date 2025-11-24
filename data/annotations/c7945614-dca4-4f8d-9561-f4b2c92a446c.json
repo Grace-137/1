@@ -3888,6 +3888,10 @@
         {
           "category": "_uncategorized_",
           "tag": "After Party"
+        },
+        {
+          "tag": "After party",
+          "category": "Event"
         }
       ],
       "uuid": "d41f561c-b894-4a79-b2ed-64b6e9c4b391"
