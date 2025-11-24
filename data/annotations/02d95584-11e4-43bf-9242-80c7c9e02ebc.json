@@ -668,47 +668,6 @@
       "uuid": "e7b71703-8f70-40ff-b60b-b8ba56ea6566"
     },
     {
-      "start_time": 355,
-      "end_time": 402,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This performance took place in the neighbourhood of Kypseli, on the terrace of a local bookstore called: Literature House. Mc Yinka was inspired by poetry and improvised using rap. He also performed two of his original songs. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "tag": "Mc Yinka",
-          "category": "Performer"
-        },
-        {
-          "tag": "Song",
-          "category": "Performance"
-        },
-        {
-          "tag": "Rap",
-          "category": "Performance"
-        },
-        {
-          "tag": "Kypseli",
-          "category": "Location"
-        },
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        }
-      ],
-      "uuid": "a580d3fb-3eab-4ee0-b059-0dd89656c224"
-    },
-    {
       "start_time": 403,
       "end_time": 426,
       "annotation": [
