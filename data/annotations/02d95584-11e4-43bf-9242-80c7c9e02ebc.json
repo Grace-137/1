@@ -891,31 +891,6 @@
       "uuid": "8be325da-cd8a-490f-88c5-00f900c5008d"
     },
     {
-      "start_time": 403,
-      "end_time": 426,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The neighbourhood of Kypseli "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Panoramic View",
-          "category": "Digital"
-        },
-        {
-          "tag": "Kypseli",
-          "category": "Location"
-        }
-      ],
-      "uuid": "8738b072-be25-41b8-8137-3dd1a09e269e"
-    },
-    {
       "start_time": 527,
       "end_time": 709,
       "annotation": [
