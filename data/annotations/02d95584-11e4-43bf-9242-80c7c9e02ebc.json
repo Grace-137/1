@@ -72,35 +72,6 @@
       "uuid": "45206570-29f9-4108-bc92-92c4cb41c531"
     },
     {
-      "start_time": 13,
-      "end_time": 21,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pedion tou Areos is the largest public park in Athens. During Covid-19 its role was vital, as Athenians and mostly residents of the neighbourhood of Kypseli spent time in the outdoors there. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Outdoors",
-          "category": "Location"
-        },
-        {
-          "tag": "Space Significance",
-          "category": "Location"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Pedion tou Areos"
-        }
-      ],
-      "uuid": "469b87f7-a419-4468-a6a4-96f3e7605b1e"
-    },
-    {
       "start_time": 22,
       "end_time": 100,
       "annotation": [
