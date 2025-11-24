@@ -260,51 +260,6 @@
       "uuid": "9f6d4835-8b0d-4762-8f12-bc85d0b11b32"
     },
     {
-      "start_time": 221,
-      "end_time": 274,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Street dance by dancers Mikel Ergar and Kofi Yadom. The recitation was done by Grace Nwoke. Poem \"Where I Am\" by Marcelino DosSantos."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Hip- Hop"
-        },
-        {
-          "tag": "Mikel",
-          "category": "Performer"
-        },
-        {
-          "tag": "Kofi",
-          "category": "Performer"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Dance"
-        },
-        {
-          "tag": "Poetry",
-          "category": "Performance"
-        },
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        }
-      ],
-      "uuid": "93b85bfe-2e1b-4ece-b308-b999c47c40b0"
-    },
-    {
       "start_time": 340,
       "end_time": 354,
       "annotation": [
