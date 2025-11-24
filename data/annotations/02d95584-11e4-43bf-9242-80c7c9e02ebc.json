@@ -1097,43 +1097,6 @@
       "uuid": "111d73fc-43cb-4c15-8573-346fc88d67bf"
     },
     {
-      "start_time": 155,
-      "end_time": 175,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Steven Aderinto performs soul and gospel songs on the rooftop of the City Hall of Athens. One of the songs he sings is: Sam Cooke’s A Change is Going to Come. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "tag": "Song",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Steven Aderinto"
-        },
-        {
-          "tag": "Soul",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "fe931c1f-41ad-48eb-b19f-571a32e98cad"
-    },
-    {
       "start_time": 175,
       "end_time": 209,
       "annotation": [
