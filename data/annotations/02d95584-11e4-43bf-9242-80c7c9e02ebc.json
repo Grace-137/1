@@ -874,63 +874,6 @@
       "uuid": "25efedbb-129b-4a90-9604-79ee72e04bec"
     },
     {
-      "start_time": 436,
-      "end_time": 526,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The final live action of the all day event was a musical encounter of Greek folk music with, soul, R&B and rap. Eleni Nzanga, Grace Nwoke, Steven Aderinto, and Mc Yinka performed blending seamlessly their distinct musical styles.  "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        },
-        {
-          "tag": "Mc Yinka",
-          "category": "Performer"
-        },
-        {
-          "tag": "Eleni Nzanga",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Steven Aderinto"
-        },
-        {
-          "tag": "Grace Nwoke",
-          "category": "Presenter & Performer"
-        },
-        {
-          "tag": "Song",
-          "category": "Performance"
-        },
-        {
-          "tag": "Soul",
-          "category": "Performance"
-        },
-        {
-          "tag": "Hip Hop",
-          "category": "Performance"
-        },
-        {
-          "tag": "Greek Folk",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "68ab4219-c120-4454-b210-12f5605cd7f3"
-    },
-    {
       "start_time": 527,
       "end_time": 709,
       "annotation": [
