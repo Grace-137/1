@@ -153,31 +153,6 @@
       "uuid": "500d9ee2-fe53-4b9f-b1f7-eda55b40f90a"
     },
     {
-      "start_time": 274,
-      "end_time": 296,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The Monastiraki Square "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Panoramic View",
-          "category": "Digital"
-        },
-        {
-          "tag": "Monastiraki",
-          "category": "Location"
-        }
-      ],
-      "uuid": "97f6abc5-b0a9-46ac-8a6a-572de30397f0"
-    },
-    {
       "start_time": 22,
       "end_time": 100,
       "annotation": [
