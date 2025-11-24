@@ -524,7 +524,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Opening performance  "
+              "text": "Opening performance. Song -  I wish I  knew How, by Nina Simone "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/search?sca_esv=a4306da362cb3c28&sxsrf=AE3TifP1-6DQRZkFMomSj0B1V2m39adSfA:1764010008444&q=Nina+Simone+I+Wish+I+Knew+How&si=AMgyJEs03_IawLpG0pN8Imr0quNL8BRn4IwD6UzBpqKXGhmQPdy01AXYjoj4yEcNEJ0r3va8l0xwVH8_G-Un54ugDsvYAuHFRpeEqYqnujqTZ4Ck68nYKpLLoAHldiNGw3xMm_GyScqET0XXGxeKMPTuhvK4uSto338lzGhoZzLnI9Y0J8CFr8k%3D&sa=X&ved=2ahUKEwj03LuvuYuRAxUalmoFHX0NG64Q_coHegQICxAB&ictx=0",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "text": "\n\n"
             }
           ]
         }
@@ -544,6 +556,10 @@
         },
         {
           "tag": "Jazz",
+          "category": "Performance"
+        },
+        {
+          "tag": "Soul",
           "category": "Performance"
         }
       ],
