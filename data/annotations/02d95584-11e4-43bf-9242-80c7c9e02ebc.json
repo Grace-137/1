@@ -24,35 +24,6 @@
         }
       ],
       "uuid": "62b89a1b-dda7-44d4-954c-c55f1c52dc26"
-    },
-    {
-      "start_time": 527,
-      "end_time": 709,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Athens "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Panoramic View",
-          "category": "Digital"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Closing Titles"
-        },
-        {
-          "tag": "Athens",
-          "category": "Location"
-        }
-      ],
-      "uuid": "a3dac1f8-8d56-4200-bac7-76d8ce09968e"
     }
   ],
   "set": "Default",
