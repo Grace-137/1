@@ -969,27 +969,6 @@
       "uuid": "3b55d486-affb-4a46-b123-1dedfc726f2c"
     },
     {
-      "start_time": 0,
-      "end_time": 8,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Restoring Closeness"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Opening Titles",
-          "category": "Credits"
-        }
-      ],
-      "uuid": "2fa427c4-1583-4789-8450-276515fad2d2"
-    },
-    {
       "start_time": 9,
       "end_time": 12,
       "annotation": [
