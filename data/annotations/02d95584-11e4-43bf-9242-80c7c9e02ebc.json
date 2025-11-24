@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 30,
-      "end_time": 43,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Afro - Greek "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "AfroGreek"
-        },
-        {
-          "tag": "Outdoors",
-          "category": "Location"
-        }
-      ],
-      "uuid": "287d1dd1-278c-4aa6-8980-d49968723bbf"
-    },
-    {
       "start_time": 43,
       "end_time": 51,
       "annotation": [
