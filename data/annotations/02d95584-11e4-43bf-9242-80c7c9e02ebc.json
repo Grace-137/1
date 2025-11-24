@@ -50,31 +50,6 @@
       "uuid": "62f3bfb6-8021-4d8c-8d8d-cf70f41d11b5"
     },
     {
-      "start_time": 175,
-      "end_time": 209,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Omonia Square "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Panoramic View",
-          "category": "Digital"
-        },
-        {
-          "tag": "Omonia",
-          "category": "Location"
-        }
-      ],
-      "uuid": "e3aac0b9-b6bd-4faf-9a09-642d41ebec3b"
-    },
-    {
       "start_time": 209,
       "end_time": 213,
       "annotation": [
