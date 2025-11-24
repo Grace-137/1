@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 43,
-      "end_time": 51,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "the end."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Closing Credits",
-          "category": "Credits"
-        }
-      ],
-      "uuid": "45206570-29f9-4108-bc92-92c4cb41c531"
-    },
-    {
       "start_time": 22,
       "end_time": 100,
       "annotation": [
