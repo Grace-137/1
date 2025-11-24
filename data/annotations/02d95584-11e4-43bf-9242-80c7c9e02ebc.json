@@ -495,35 +495,6 @@
       "uuid": "7810fbb0-2f62-416e-9c40-fa61f05ec6d8"
     },
     {
-      "start_time": 710,
-      "end_time": 742,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At the end of that day, the restrictive curfew measures in the city, started to take effect. An online discussion on zoom was created, where the artists who participate in the events during the day could discuss online with the participation of viewers who tuned in. Many questions were asked and a lot of them were people who have lived in Athens for several years and had no idea about the effects of racism on the Black community, neither were they aware that the Black community is strong enough and big enough to co-create such artistic interventions. The artists on the call all agreed they aspire to work together more and they will continue to fight stereotypes and prejudices through art."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
-          "tag": "Online Discussion",
-          "category": "Event"
-        },
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        }
-      ],
-      "uuid": "bcdfb21f-fa5b-4664-b8f4-492dd064a50d"
-    },
-    {
       "start_time": 22,
       "end_time": 100,
       "annotation": [
