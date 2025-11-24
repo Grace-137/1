@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 9,
-      "end_time": 22,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "When asked ‘’Where are you from’’, the reply can vary. Where someone is from is part of their identity. In the clip, some mention where they were born, others mention where their parents are from, others refer to where they have lived most of their lives and are specific mentioning the city as well. Others believe it’s necessary to mention both where their ancestry is from and their place of birth or would rather say they are Greek and give some context about it mentioning their ancestry, while for others, the specific location they are situated in currently (Kypseli) is part of the journey in forming their identity.  "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Greek"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Comments"
-        }
-      ],
-      "uuid": "97c4288a-89f3-42f3-9ca3-1e541a097e43"
-    },
-    {
       "start_time": 22,
       "end_time": 30,
       "annotation": [
