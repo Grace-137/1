@@ -289,31 +289,6 @@
       "uuid": "20575a96-8399-4030-85a1-fb238df7d9be"
     },
     {
-      "start_time": 340,
-      "end_time": 354,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Zappeion "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Panoramic View",
-          "category": "Digital"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Zappeion"
-        }
-      ],
-      "uuid": "c4fa52c1-cadf-4555-b071-4e8df61ca7c5"
-    },
-    {
       "start_time": 22,
       "end_time": 100,
       "annotation": [
