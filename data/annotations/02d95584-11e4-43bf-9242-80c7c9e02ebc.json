@@ -665,31 +665,6 @@
       "uuid": "bcdfb21f-fa5b-4664-b8f4-492dd064a50d"
     },
     {
-      "start_time": 30,
-      "end_time": 43,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Afro - Greek "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "AfroGreek"
-        },
-        {
-          "tag": "Outdoors",
-          "category": "Location"
-        }
-      ],
-      "uuid": "4b01b43c-8c4f-41c6-9f22-bdd5b1b1e69e"
-    },
-    {
       "start_time": 43,
       "end_time": 51,
       "annotation": [
