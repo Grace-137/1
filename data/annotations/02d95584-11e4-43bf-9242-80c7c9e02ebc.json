@@ -1201,35 +1201,6 @@
       "uuid": "8738b072-be25-41b8-8137-3dd1a09e269e"
     },
     {
-      "start_time": 427,
-      "end_time": 435,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The Benaki museum is one of the most significant cultural institutions of the country, as it preserves and exhibits Greek art and artifacts from prehistoric times to the modern era. Its collection includes artifact from ancient, Byzantine, Ottoman, and modern Greek culture, making it a comprehensive chronicle of Greek history and identity, while it also reflects the contributions of the Greek diaspora."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Space Significance",
-          "category": "Location"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Benaki Museum"
-        },
-        {
-          "tag": "Comment",
-          "category": "Annotation"
-        }
-      ],
-      "uuid": "669160ee-041b-4853-847d-5897bedcef42"
-    },
-    {
       "start_time": 527,
       "end_time": 709,
       "annotation": [
