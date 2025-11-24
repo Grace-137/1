@@ -459,10 +459,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Song"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Afro Funk"
         },
         {
@@ -472,7 +468,7 @@
       ]
     },
     "created_at": "2025-11-09T05:33:52.288Z",
-    "updated_at": "2025-11-24T18:50:54.013Z",
+    "updated_at": "2025-11-24T18:51:05.952Z",
     "generate_pages_site": true
   },
   "annotations": {},
